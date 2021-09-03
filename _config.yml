@@ -2,7 +2,7 @@ title: ZAKIY.my.id URL Shortener
 description: Hello world!
 logo: https://cdn.zakiy.my.id/images/IMG_2006-Edit.jpg
 show_downloads: false
-google_analytics:
+google_analytics: G-WJGPSGX9FX
 theme: jekyll-theme-minimal
 
 permalink: /:slug/
