@@ -1,6 +1,6 @@
 title: ZAKIY.my.id
 description: Hello world!
-logo: logo.png
+logo: https://cdn.zakiy.my.id/images/logo.png
 show_downloads: false
 google_analytics: G-WJGPSGX9FX
 theme: jekyll-theme-minimal
@@ -10,4 +10,4 @@ permalink: /:slug/
 plugins:
   - jekyll-redirect-from
 
-#repository: hlaueriksson/jekyll-url-shortener
+#repository: fwzakiy/zakiy-url-shortener
