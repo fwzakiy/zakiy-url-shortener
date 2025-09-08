@@ -5,7 +5,7 @@ show_downloads: false
 google_analytics: G-WJGPSGX9FX
 theme: jekyll-theme-minimal
 
-permalink: /:slug.html
+permalink: /:slug
 
 plugins:
   - jekyll-redirect-from
