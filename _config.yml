@@ -1,11 +1,11 @@
-title: ZAKIY.my.id
-description: URL Shorterner
-logo: https://1.bp.blogspot.com/-bg-Y2MvO6RU/YNJysZSoORI/AAAAAAAAids/2AQDB6Pmu1c5ZGaXbZFBidyInRA9X8ZMQCLcBGAsYHQ/s0-rw/zakiy.png
+title: Short Link - ZAKIY
+description: URL Shortener for projects made by ZAKIY.my.id.
+logo: https://www.zakiy.my.id/cdn-cgi/image/compression=fast,fit=contain,format=auto,metadata=none,onerror=redirect,quality=high,slow-connection-quality=medium-high,quality=100/https://1.bp.blogspot.com/-bg-Y2MvO6RU/YNJysZSoORI/AAAAAAAAids/2AQDB6Pmu1c5ZGaXbZFBidyInRA9X8ZMQCLcBGAsYHQ/s0-rw/zakiy.png
 show_downloads: false
 google_analytics: G-WJGPSGX9FX
 theme: jekyll-theme-minimal
 
-permalink: /:slug
+permalink: /:slug.html
 
 plugins:
   - jekyll-redirect-from
