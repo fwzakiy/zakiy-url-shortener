@@ -1,4 +1,4 @@
 ---
 title: Zoom UI
-redirect_to: https://ui-ac-id.zoom.us/my/zakiy
+redirect_to: [https://ui-ac-id.zoom.us/my/zakiy](https://ui-ac-id.zoom.us/j/92742504612?pwd=5ttMq9ZTumgmiTfybClfq44NDjlPr7.1)
 ---
